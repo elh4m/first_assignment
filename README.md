@@ -8,7 +8,7 @@
 To build from source, clone the latest version from this repository into your catkin workspace:
 
 	cd catkin_workspace/src
-	git clone 
+	git clone https://github.com/elh4m/first_assignment.git
 	cd ../
 	catkin_make
 
