@@ -52,7 +52,8 @@ rosrun my_srv my_srv
 then :
 
 rosrun assignment1 assignment1
-rqt_graph for displaying a graph with all the relationships between nodes
+rqt_graph 
+for displaying a graph with all the relationships between nodes
 
 
 ![rosgraph](https://user-images.githubusercontent.com/77781922/115150623-bf2e9780-a058-11eb-9505-58a8d85e660a.png)
