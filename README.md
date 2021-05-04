@@ -47,12 +47,16 @@ Waits for requests in order to generate random x and y coordinates in the interv
 
 type these commands in your terminal:
 
-rosrun my_srv my_srv
+`rosrun stage_ros stageros $(rospack find assignment1)/world/exercise.world'
+
+`rosrun my_srv my_srv`
 
 then :
 
-rosrun assignment1 assignment1
-rqt_graph 
+`rosrun assignment1 assignment1`
+
+`rqt_graph` 
+
 for displaying a graph with all the relationships between nodes
 
 
